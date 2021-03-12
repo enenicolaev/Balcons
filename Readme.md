@@ -1,0 +1,1 @@
+All javascript interactive interface was made by me.

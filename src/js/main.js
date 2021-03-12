@@ -27,12 +27,12 @@ document.addEventListener("DOMContentLoaded", () => {
       openModal(".popup_engineer", timerModal);
    }, 6000000);
 
-   const deadline = "2020-12-31"
+   const deadline = "2021-05-09"
 
    
 
    // request phone
-   modal(".phone_link", ".popup", ".popup_close", timerModal);
+   modal(".phone_link", ".popup-call", ".popup_close", timerModal);
 
    // request engineer 
    modal(".popup_engineer_btn", ".popup_engineer", ".popup_engineer .popup_close", timerModal);

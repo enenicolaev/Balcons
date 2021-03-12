@@ -12,7 +12,7 @@ function timer(selector, deadline) {
          "seconds": seconds,
          "minutes": minutes,
          "hours": hours,
-         "days": days
+         "days": days,
       };
    };
 

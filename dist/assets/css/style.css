@@ -1836,3 +1836,9 @@ textarea:focus {
     animation: none !important;
   }
 }
+
+@media (max-width: 991px) {
+   #timer {
+      margin: 0px auto;
+   }
+}
